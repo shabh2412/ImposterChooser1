@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImposterChooser</string>
+    <string name="no_role_chosen">No Role Allotted!</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="choose_role">Allot Role</string>
+    <string name="reset_for_next_player">Reset for next player</string>
+    <string name="view_all_player">View All Players</string>
+    <string name="enter_the_number_of_players">Enter the number of players</string>
+    <string name="set">Set</string>
+    <string name="impostor_chooser">Impostor Chooser</string>
+</resources>
